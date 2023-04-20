@@ -1,4 +1,4 @@
-import css from "./TaskCounter.module.css";
+import css from './TaskCounter.module.css';
 
 export const TaskCounter = () => {
   return (
